@@ -1,2 +1,2 @@
 # country-info-app
-Using https://restcountries.com API for practice using restful api's 
+Using the restcountries.com API for practice using restful api's with Javascript.
